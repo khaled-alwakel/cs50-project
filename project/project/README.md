@@ -1,6 +1,7 @@
 # mr piston
 ### video demo: https://www.youtube.com/watch?v=y4GFwNEyVyI
-# mr piston is simple web  it's about car maintenance .
+# mr piston is simple web application
+it's about car maintenance .
 # i thought it will be good idea to make app let the users see the company products and enjoy thier services, also they can likes some product and put in in favorites .
 # also user can make an appointment . he can choose car brand and the day he want to come to the company to fix his problem it will be nice to make them see thier booking table so he can cancel one if he want.
 # i gave user control of his account he can update his username and his password easily. so i worked on that idea and made this simple app .
